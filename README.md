@@ -12,9 +12,9 @@ Minhas principais áreas de foco e ferramentas que utilizo:
 
 | Categoria | Tecnologias |
 | :--- | :--- |
-| **Linguagens Base** | HTML, CSS, Js |
+| **Linguagens Base** | HTML, CSS, JavaScript |
 | **Controle de Versão** | Git, GitHub |
-| **Em Exploração** | JavaScript (Próximo passo) |
+| **Em Exploração** | Python |
 
 ---
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?pedropatriciio=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
