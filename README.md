@@ -17,7 +17,6 @@ Minhas principais áreas de foco e ferramentas que utilizo:
 | **Em Exploração** | Python |
 
 ---
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?pedropatriciio=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
 ## 🌱 O que estou aprendendo agora?
