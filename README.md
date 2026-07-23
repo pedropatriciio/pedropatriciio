@@ -4,7 +4,7 @@ Bem-vindo(a) ao meu espaço no GitHub! Eu sou um desenvolvedor em aprendizado, f
 
 Atualmente, estou explorando e trabalhando em projetos que solidificam minha base em tecnologias front-end.
 
-Conheça meu Portifólio : https://ppatriciodev.vercel.app/
+
 
 ---
 ---
